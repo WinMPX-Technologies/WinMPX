@@ -38,7 +38,7 @@ WinMPX Technologies is committed to the continuous improvement of our tools:
 ## 💬 Feedback & Support
 We value user input to keep WinMPX at the forefront of the industry. For technical inquiries or feedback:
 * **GitHub Issues:** Open a ticket in our [Issues](https://github.com/WinMPX-Technologies/WinMPX/issues) section.
-* **Direct Support:** Contact our team at `winmpx.support@gmail.com`.
+* **Direct Support:** Contact our team at `contact@winmpx.com`.
 
 ---
 *© 2026 WinMPX Technologies. Thank you for choosing our professional audio solutions.*

@@ -19,7 +19,7 @@ As independent developers, we distribute WinMPX directly to our users. Because t
 2. Click **"Run anyway"** (Ejecutar de todas formas).
 
 **Our Commitment to Safety:**
-WinMPX Technologies takes security seriously. Every release is scanned and verified for integrity. You may verify the installer yourself by uploading it to [VirusTotal](https://www.virustotal.com/) to check against 70+ industry-standard antivirus engines.
+Winands Labs takes security seriously. Every release is scanned and verified for integrity. You may verify the installer yourself by uploading it to [VirusTotal](https://www.virustotal.com/) to check against 70+ industry-standard antivirus engines.
 
 ---
 
@@ -30,7 +30,7 @@ WinMPX Technologies takes security seriously. Every release is scanned and verif
 * **Advanced Development:** We utilize state-of-the-art AI workflows to maintain high-quality code standards and rapid feature deployment.
 
 ## 🛠️ Project Roadmap
-WinMPX Technologies is committed to the continuous improvement of our tools:
+Winands Labs is committed to the continuous improvement of our tools:
 - [ ] **Official Web Portal:** Launching [www.winmpx.com](https://www.winmpx.com) for centralized documentation.
 - [ ] **Standardized Code Signing:** Transitioning to EV Certification to streamline the installation process for all users.
 - [ ] **Advanced Processing:** Regular updates to audio processing modules based on industry requirements.
@@ -41,4 +41,4 @@ We value user input to keep WinMPX at the forefront of the industry. For technic
 * **Direct Support:** Contact our team at `support@winmpx.com`.
 
 ---
-*© 2026 WinMPX Technologies. Thank you for choosing our professional video downloader solution.*
+*© 2026 Winands Labs. Thank you for choosing our professional video downloader solution.*

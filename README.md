@@ -4,7 +4,7 @@
   <h1>WinMPX 🚀</h1>
   <p><b>High-Fidelity Video Downloader for Windows. 8K Ready. Zero Ads.</b></p>
 
-  <a href="https://github.com/WinandsLabs/WinMPX-distribution/releases"><img src="https://img.shields.io/github/v/release/WinandsLabs/WinMPX-distribution?style=for-the-badge&color=blue&label=LATEST%20VERSION&cache=0" alt="Latest Version"></a>
+  <a href="https://github.com/WinandsLabs/WinMPX-distribution/releases"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWinandsLabs%2FWinMPX-distribution%2Fmain%2Fversion.json&query=%24.version&style=for-the-badge&label=LATEST%20VERSION&color=blue" alt="Latest Version"></a>
   <a href="https://winmpx.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fwinmpx.com&style=for-the-badge&label=OFFICIAL%20WEBSITE" alt="Website Status"></a>
 </div>
 
